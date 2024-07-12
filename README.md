@@ -95,7 +95,7 @@ O primeiro ciclo de entrega deste projeto será explicado de acordo com as quest
 
 * No negócio, FN representa o maior custo financeiro de manutenção além do custo agregado de quebra inesperada. O erro Falso Positivo (FP) representa um custo financeiro menor e pode ser executado (manutenção) de forma planejada com menor impacto às operações da empresa.
 
-![test_result](img/testdatadata.PNG)
+![test_result](img/testdata.PNG)
 
 **7.** Performance de Negócio
 * Apresentado para o time de negócios, a matriz de confusão é possível visualizar as previsões de forma simples, acertos e erros, além de favorecer o cálculo de custo e planejamento de ações.
@@ -103,7 +103,7 @@ O primeiro ciclo de entrega deste projeto será explicado de acordo com as quest
 
 ![confusion_matrix](img/matrix.PNG)
 
-*A classificação do algoritmo representa uma economia de 42% no gasto com a manutenção no sistema de ar através da previsão da condição de falha.
+* A classificação do algoritmo representa uma economia de 42% no gasto com a manutenção no sistema de ar através da previsão da condição de falha.
 
 ![tabela_final](img/result.PNG)
 
@@ -122,7 +122,9 @@ O primeiro ciclo de entrega deste projeto será explicado de acordo com as quest
 
 ## 5) Conclusão
 Redução de 41% no gasto de manutenção.
+
 O objetivo do projeto é criar a previsão de falhas para um plano de manutenção que evite quebras inesperadas. Foi desenvolvido um algoritmo de Machine Learning para classificar a falha do sistema de ar.
+
 O resultado mostra a possibilidade de atuar de forma antecipada às falhas registradas, reduzindo custo de manutenção e custo de quebra, além da possibilidade de executar a manutenção de forma planejada e calculada.
 
 ## 6) Próximos Passos para o Ciclo II do CRISP
