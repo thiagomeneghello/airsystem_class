@@ -1,4 +1,4 @@
-# Projeto de Previsão de Manutenção Preventiva para frota de caminhão.
+# Projeto de Classificação de Falha em componente de caminhão.
 
 ## 1) Problema de Negócio
 Uma empresa de transportes identificou o alto crescimento do custo de manutenção no sistema de ar dos seus caminhões. O setor de IT e manutenção da empresa entrou em contato com a consultoria de Data Science para saber se há forma de desenvolver um projeto de Machine Learning (IA) para identificar preventivamente a falha, reduzir custo de manutenção corretiva e identificar os principais fatores que causam o problema.
