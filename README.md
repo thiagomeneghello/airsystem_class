@@ -1,4 +1,3 @@
-~~~Português
 # Projeto de Previsão de Manutenção Preventiva para frota de caminhão.
 
 ## 1) Problema de Negócio
@@ -132,9 +131,8 @@ O resultado mostra a possibilidade de atuar de forma antecipada às falhas regis
 - Modelar os outliers dos dados. Etapa não realizada no Ciclo I.
 - Treinar outros modelos de Machine Learning como RandomForest e SVM.
 - Verificar o novo desempenho da métrica escolhida e o impacto no custo da empresa.
-~~~
 
-~~~English
+
 # Predictive Maintenance Project for Truck Fleet.
 ## 1) Business Problem
 A transportation company identified a significant increase in maintenance costs related to the air system in its trucks. The IT and maintenance department contacted a Data Science consultancy to explore the development of a Machine Learning project to proactively identify failures, reduce corrective maintenance costs, and pinpoint key factors contributing to the issue.
@@ -246,4 +244,3 @@ The project's objective is to forecast failures for a maintenance plan that prev
 - Model data outliers, an uncompleted step in Cycle I.
 - Train additional Machine Learning models such as RandomForest and SVM.
 - Assess the new metric performance and its impact on company costs.
-~~~
