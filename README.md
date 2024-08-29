@@ -13,6 +13,8 @@ A manutenção preventiva irá reduzir significativamente o alto custo de manute
 
 * Para além do custo financeiro calculável, a falha não planejada do caminhão traz custos extras como interrupção do trabalho, atraso em entregas, multas contratuais, problemas com clientes.
 
+* O custo financeiro assumido é: ida caminhão para manutenção, sem detecção de falha $10,00; ida caminhão para manutenção, com detecção de falha $25,00 (manutenção preventiva); quebra caminhão sem manutenção $500,00 (manutenção corretiva).
+
 * Para efeito de cálculos e comparativo de resultado, foi assumido que as respostas positivas de falha no dataset de teste são divididas em 1/3 de manutenção corretiva e 2/3 manutenção preventiva.
 
 ## 3) Estratégia de Solução
